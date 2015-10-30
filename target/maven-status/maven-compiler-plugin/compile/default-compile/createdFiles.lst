@@ -1,0 +1,17 @@
+com\interway\projectsmanager\dao\CustomerDAO.class
+com\interway\projectsmanager\model\Student.class
+com\interway\projectsmanager\core\SimpleCORSFilter.class
+com\interway\projectsmanager\controller\ServiceController.class
+com\interway\projectsmanager\model\Project.class
+com\interway\projectsmanager\model\Greeting.class
+com\interway\projectsmanager\dao\ServiceDAO.class
+com\interway\projectsmanager\model\Customer.class
+com\interway\projectsmanager\Application.class
+com\interway\projectsmanager\controller\ProjectController.class
+com\interway\projectsmanager\model\Service.class
+com\interway\projectsmanager\dao\ProjectDAO.class
+com\interway\projectsmanager\controller\CustomerController.class
+com\interway\projectsmanager\controller\GreetingController.class
+com\interway\projectsmanager\dao\JdbcCustomerDAO.class
+com\interway\projectsmanager\dao\JdbcProjectDAO.class
+com\interway\projectsmanager\dao\JdbcServiceDAO.class
